@@ -1,0 +1,17 @@
+{
+  "notion": {
+    "type": "url",
+    "url": "https://mcp.notion.com/mcp",
+    "name": "notion"
+  },
+  "gmail": {
+    "type": "url",
+    "url": "https://gmailmcp.googleapis.com/mcp/v1",
+    "name": "gmail"
+  },
+  "google-drive": {
+    "type": "url",
+    "url": "https://drivemcp.googleapis.com/mcp/v1",
+    "name": "google-drive"
+  }
+}
